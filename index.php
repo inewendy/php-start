@@ -16,8 +16,9 @@
     //Float
     echo 10.95;
     $a = true;
+    //bootlean
     if ($a === true){
-        echo "Variable $a is true"
+        echo "<br>Variable $a is true";
     }
     ?>
 
