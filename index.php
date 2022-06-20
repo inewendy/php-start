@@ -9,8 +9,16 @@
 <body>
     <p> This is a paragraph<hr></p>
     <?php
-    echo "This is a paragraph";
+    //String
+    echo "This is a paragraph <br>";
+    //Integer
     echo 10;
+    //Float
+    echo 10.95;
+    $a = true;
+    if ($a === true){
+        echo "Variable $a is true"
+    }
     ?>
 
         <p> This is a paragraph</p>
