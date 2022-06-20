@@ -20,6 +20,14 @@
     if ($a === true){
         echo "<br>Variable $a is true";
     }
+    // Variables
+    $myName = "Wendy";
+    $myAge = 27;
+    $havePet = false;
+
+    const PI = 3.14;
+    const YOULIKINGMYVIDEO = true;
+
     ?>
 
         <p> This is a paragraph</p>
